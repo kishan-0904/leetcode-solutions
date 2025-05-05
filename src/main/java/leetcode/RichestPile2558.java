@@ -55,7 +55,7 @@ public class RichestPile2558 {
 	}
 	
 	/*
-	 * Optimal Solution: Use Priority queue: O(log n)
+	 * Optimal Solution: Use Priority queue: O(nlog n)
 	 * take out the 0th element and root and insert back
 	 */
 
